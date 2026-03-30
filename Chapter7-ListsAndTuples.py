@@ -72,7 +72,7 @@ print()
 # remove the ''' before testing.
 
 '''
-numbers = [1, 2, 3]
+numbers = [1. 2, 3]
 
 numbers.append[4]
 
